@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+.contenedor-1 {
+  width: 400px;
+  margin: 50px;
+}
+div {
+  width: 100px;
+  height: 45px;
+  padding: 10px;
+  background-color: grey;
+  border: solid black 1px;
+  margin: 10px;
+  text-align: center;
+  display: inline-block;
+}
+.caja-a {
+  box-shadow: -2px -2px black;
+}
+.caja-b {
+  box-shadow: -2px -2px 5px black;
+}
+.caja-c {
+  box-shadow: -2px -2px 0 2px black;
+}
+.caja-d {
+  box-shadow: -2px -2px 5px 2px black;
+}
+.caja-e {
+  box-shadow: 0px 0px 5px 0px black;
+}
+.caja-f {
+    box-shadow: 0px 0px 1px 1px black;
+  }

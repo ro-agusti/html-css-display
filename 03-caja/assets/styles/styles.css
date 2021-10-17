@@ -1,0 +1,16 @@
+.div1 {
+    background: #5DEAA8;
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+}
+.div2 {
+    background: #5DEAA8;
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 10%;
+}

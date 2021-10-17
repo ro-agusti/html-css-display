@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url(../imagenes/bosque.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    width: 900px;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 54px;
+}
+main{
+    width: 900px;
+    background-color: #fff;
+    height: 800px;
+}
+div{
+    background-image: url(../imagenes/banner.jpg);
+    background-repeat: no-repeat;
+    height: 400px;
+}
+h2{
+    text-align: center;
+}

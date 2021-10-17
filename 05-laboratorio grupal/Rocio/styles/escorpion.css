@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  font-family: sans-serif;
+  font-size: 1rem;
+  height: 70px;
+  background-color: burlywood;
+}
+
+nav a {
+  color: brown;
+}
+
+nav a:hover {
+  color: #563915;
+  font-size: 1.3rem;
+  font-weight: bolder;
+}
+
+header {
+  position: relative;
+}
+
+header h1 {
+  padding: 10px;
+  color: brown;
+  width: 500px;
+  font-family: sans-serif;
+  line-height: 70px;
+  font-size: 3rem;
+  position: absolute;
+  height: 70px;
+  background-color: rgba(222, 184, 135, 0.21);
+}
+
+header img {
+  width: 100%;
+}
+
+main article {
+  color: brown;
+  font-family: sans-serif;
+  font-size: 0.9rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+main article p {
+  padding: 10px;
+  width: 60%;
+}
+
+main article img {
+  width: 40%;
+  margin: auto;
+  max-width: 300px;
+}
+
+main .last-p {
+  width: 100%;
+}
+
+main footer {
+  height: 80px;
+  background-color: burlywood;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+main footer a {
+  color: brown;
+  font-family: sans-serif;
+  font-size: 1rem;
+}
+
+main footer a:hover {
+  color: #563915;
+  font-size: 1.3rem;
+}
+/*# sourceMappingURL=escorpion.css.map */

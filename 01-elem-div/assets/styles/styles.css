@@ -1,0 +1,11 @@
+div {
+  margin: 10px;
+  border: black 3px solid;
+  padding: 10px;
+}
+
+div div {
+  background-color: lightblue;
+  border: none;
+}
+/*# sourceMappingURL=styles.css.map */

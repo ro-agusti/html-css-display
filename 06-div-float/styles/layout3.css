@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0 15px;
+}
+body {
+  background-color: rgb(206, 201, 201);
+}
+.header {
+  background-color: black;
+  height: 100px;
+}
+.nav {
+  background-color: rgb(199, 94, 94);
+  height: 30px;
+}
+.container {
+    margin: 0;
+    width: 100%;
+}
+.left {
+    display: inline-block;
+  background-color: rgb(123, 57, 57);
+  width: 20%;
+  height: 550px;
+}
+.right {
+  background-color: rgb(86, 82, 82);
+  width: 20%;
+  height: 550px;
+  float: right;
+  
+}
+.footer{
+    background-color: rgb(56, 53, 53);
+  height: 30px;
+}
